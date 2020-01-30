@@ -289,6 +289,7 @@ declare const ZEPPLIN: number;
 declare const ZEPPELIN: number;
 declare const W2_WARLOCK: number;
 declare const PIG_FARM: number;
+declare const FOREST_TROLL: number;
 declare const CHAOS_GRUNT: number;
 declare const CHAOS_WARLOCK: number;
 declare const CHAOS_RAIDER: number;
