@@ -721,6 +721,7 @@ declare function EndThematicMusicBJ(): void;
 declare function StopMusicBJ(fadeOut: boolean): void;
 declare function ResumeMusicBJ(): void;
 declare function SetMusicVolumeBJ(volumePercent: number): void;
+declare function SetThematicMusicVolumeBJ(volumePercent: number): void;
 declare function GetSoundDurationBJ(soundHandle: sound): number;
 declare function GetSoundFileDurationBJ(musicFileName: string): number;
 declare function GetLastPlayedSound(): sound;
