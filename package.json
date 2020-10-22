@@ -9,6 +9,6 @@
   "author": "TriggerHappy, Promises, and MindWorX.",
   "license": "MIT",
   "dependencies": {
-    "convertjasstots": "latest"
+    "convertjasstots": "^1.0.12"
   }
 }

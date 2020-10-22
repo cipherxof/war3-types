@@ -1560,6 +1560,8 @@ declare function BlzFrameGetHeight(frame: framehandle): number;
 declare function BlzFrameGetWidth(frame: framehandle): number;
 declare function BlzFrameSetFont(frame: framehandle, fileName: string, height: number, flags: number): void;
 declare function BlzFrameSetTextAlignment(frame: framehandle, vert: textaligntype, horz: textaligntype): void;
+declare function BlzFrameGetChildrenCount(frame: framehandle): number;
+declare function BlzFrameGetChild(frame: framehandle, index: number): framehandle;
 declare function BlzTriggerRegisterFrameEvent(whichTrigger: trigger, frame: framehandle, eventId: frameeventtype): event;
 declare function BlzGetTriggerFrame(): framehandle;
 declare function BlzGetTriggerFrameEvent(): frameeventtype;
