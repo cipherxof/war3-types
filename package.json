@@ -1,6 +1,6 @@
 {
   "name": "war3-types",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "TypeScript definitions for Warcraft III custom maps.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -8,6 +8,7 @@
   },
   "author": "TriggerHappy, Promises, and MindWorX.",
   "license": "MIT",
+  "url": "https://github.com/cipherxof/war3-types",
   "dependencies": {
     "convertjasstots": "^1.0.12"
   }
